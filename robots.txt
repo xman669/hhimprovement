@@ -1,5 +1,5 @@
 
 User-agent: *
 Disallow: /assest
-disallow:/oferta1.html
-disallow:/oferta2.html
+Disallow:/oferta1.html
+Disallow:/oferta2.html
